@@ -1,0 +1,2 @@
+# .github
+OpenCulinary project defaults
