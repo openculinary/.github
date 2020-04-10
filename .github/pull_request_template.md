@@ -7,5 +7,5 @@
 ### How have the changes been tested?
 1. 
 
-**List any issues that this changeset should resolve**
+**List any issues that this change relates to**
 Fixes # .
