@@ -34,7 +34,7 @@ Both reading and writing technical documentation are valuable contributions and 
 
 Everyone benefits when documentation is concise and comprehensive.
 
-If you find code, components or processes in RecipeRadar that are undocumented or contain mistakes, please [offer changes](#offer-changes) and we'll review them.
+If you find code, components or processes in RecipeRadar that are undocumented or contain mistakes, please [offer changes](#offering-changes) and we'll review them.
 
 
 ## Offering Changes
