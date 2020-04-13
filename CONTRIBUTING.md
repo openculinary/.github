@@ -63,7 +63,7 @@ This is a good way to gather feedback on your idea and to determine whether the 
 
 ## Writing Blog Posts
 
-The [RecipeRadar blog content](https://github.com/openculinary/blog) is managed via source control.
+RecipeRadar's blog content is stored as [markdown](https://en.wikipedia.org/wiki/Markdown) in [source control](https://github.com/openculinary/blog).
 
 Are you a content writer with opinions on the type of guidance we should provide to content writers?
 
