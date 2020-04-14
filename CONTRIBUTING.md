@@ -16,7 +16,7 @@ The RecipeRadar application contains multiple software components.  Each compone
 
 For example, the RecipeRadar [direction-parser](https://github.com/openculinary/direction-parser) accepts written recipe instructions and extracts metadata from them.  It does not determine how the metadata is displayed to the user, nor how it is stored.
 
-Please try to determine the most relevant RecipeRadar component to provide your contributions to.  This will help our team to understand and respond to your contributions swiftly.
+When contributing to RecipeRadar, please try to find the most relevant component to add your contributions to.  This will help our team to understand and respond to your contributions swiftly.
 
 
 ## Reporting Bugs
